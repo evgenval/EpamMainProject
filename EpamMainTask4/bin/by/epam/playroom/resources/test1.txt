@@ -1,0 +1,2 @@
+Cube cost: 3000.2 ageGroup: YOUNGER_GROUP size: MEDIUM
+Car cost: 300 ageGroup: OLDER_GROUP size: SMALL

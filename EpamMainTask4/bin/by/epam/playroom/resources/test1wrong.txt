@@ -1,0 +1,3 @@
+Doll cost: -120.3, ageGroup: YNGER_GROUP, size: SMALL
+Ball cost: 12, ageGroup: MEDM_GROUP, size: BIG
+Car cost: 300.0, ageGroup: YOUNGER_GROUP, size: BIG

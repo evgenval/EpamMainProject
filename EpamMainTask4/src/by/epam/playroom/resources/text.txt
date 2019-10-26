@@ -1,0 +1,12 @@
+Doll cost: 120.3 ageGroup: YOUNGERGROUP size: SMALL song: true
+Ball cost: 12 ageGroup: MEDIUMGROUP size: BIG ballGame: FOOTBALL
+Cube cost: 30.2 ageGroup: YOUNGERGROUP size: MEDIUM	color: RED
+Car cost: 300 ageGroup: OLDERGROUP size: BIG appointment: AMBULANCE
+Doll cost: 111.3 ageGroup: YOUNGERGROUP size: SMALL song: false
+Doll cost: 120.3 ageGroup: YOUNGERGROUP size: SMALL song: true
+Ball cost: 12 ageGroup: MEDIUMGROUP size: BIG ballGame: HANDBALL
+Cube cost: 300.2 ageGroup: YOUNGERGROUP size: MEDIUM color: GREEN
+Car cost: 300 ageGroup: OLDERGROUP size: SMALL appointment: POLICE
+Ball cost: 12, ageGroup: MEDIUMGROUP size: BIG	ballGame: WATERPOLO
+Cube cost: 30.2 ageGroup: YOUNGERGROUP size: MEDIUM color: BLUE
+Car cost: 300 ageGroup: OLDERGROUP size: BIG appointment: CIVIL
